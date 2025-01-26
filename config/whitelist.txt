@@ -1,5 +1,38 @@
 # 这是接口或订阅源的白名单，白名单内的接口或订阅源获取的接口将不会参与测速，优先排序至结果最前。
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 radio="true" tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="央广",中国之声
+https://radio.0472.org/?id=639
+#EXTINF:-1 radio="true" tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="央广",经济之声
+https://radio.0472.org/?id=640
+#EXTINF:-1 radio="true" tvg-name="环球资讯广播" tvg-logo="https://radio.0472.org/?id=692&logo" group-title="央广",环球资讯广播
+https://radio.0472.org/?id=692
+#EXTINF:-1 radio="true" tvg-name="音乐之声" tvg-logo="https://radio.0472.org/?id=641&logo" group-title="央广",音乐之声
+https://radio.0472.org/?id=641
+#EXTINF:-1 radio="true" tvg-name="中国交通广播" tvg-logo="https://radio.0472.org/?id=653&logo" group-title="央广",中国交通广播
+https://radio.0472.org/?id=653
+#EXTINF:-1 radio="true" tvg-name="文艺之声" tvg-logo="https://radio.0472.org/?id=648&logo" group-title="央广",文艺之声
+https://radio.0472.org/?id=648
+#EXTINF:-1 radio="true" tvg-name="大湾区之声" tvg-logo="https://radio.0472.org/?id=645&logo" group-title="央广",大湾区之声
+https://radio.0472.org/?id=645
+#EXTINF:-1 radio="true" tvg-name="经典音乐广播" tvg-logo="https://radio.0472.org/?id=642&logo" group-title="央广",经典音乐广播
+https://radio.0472.org/?id=642
+#EXTINF:-1 radio="true" tvg-name="台海之声" tvg-logo="https://radio.0472.org/?id=643&logo" group-title="央广",台海之声
+https://radio.0472.org/?id=643
+#EXTINF:-1 radio="true" tvg-name="神州之声" tvg-logo="https://radio.0472.org/?id=644&logo" group-title="央广",神州之声
+https://radio.0472.org/?id=644
+#EXTINF:-1 radio="true" tvg-name="香港之声" tvg-logo="https://radio.0472.org/?id=646&logo" group-title="央广",香港之声
+https://radio.0472.org/?id=646
+#EXTINF:-1 radio="true" tvg-name="民族之声" tvg-logo="https://radio.0472.org/?id=647&logo" group-title="央广",民族之声
+https://radio.0472.org/?id=647
+#EXTINF:-1 radio="true" tvg-name="老年之声" tvg-logo="https://radio.0472.org/?id=649&logo" group-title="央广",老年之声
+https://radio.0472.org/?id=649
+#EXTINF:-1 radio="true" tvg-name="藏语广播" tvg-logo="https://radio.0472.org/?id=650&logo" group-title="央广",藏语广播
+https://radio.0472.org/?id=650
+#EXTINF:-1 radio="true" tvg-name="维吾尔语广播" tvg-logo="https://radio.0472.org/?id=651&logo" group-title="央广",维吾尔语广播
+https://radio.0472.org/?id=651
+#EXTINF:-1 radio="true" tvg-name="阅读之声" tvg-logo="https://radio.0472.org/?id=652&logo" group-title="央广",阅读之声
+https://radio.0472.org/?id=652
 央视频道,#genre#
 CCTV1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
