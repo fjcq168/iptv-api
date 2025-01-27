@@ -1,3 +1,4 @@
+广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 广安公共频道,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 广安公共频道,https://stream1.freetv.fun/7e5546a40f695a2465a56c9f1358bb247be843cea69941392eeb5a211c54672d.m3u8
 广安公共,https://stream1.freetv.fun/cddcf3cd56fad52778cf497d1735bf60ed38bb1a00aa378ca7aed81a3d67f133.m3u8
