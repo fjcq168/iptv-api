@@ -1,5 +1,16 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
+Guovin/iptv-database
+iptv-org/iptv
+suxuang/myIPTV
+kimwang1978/collect-tv-txt
+xzw832/cmys
+asdjkl6/tv
+yuanzl77/IPTV
+fanmingming/live
+vbskycn/iptv
+YueChan/Live
+YanG-1989/m3u
 http://8.138.7.223/live.txt
 https://cdn.jsdelivr.net/gh/fjcq168/live@refs/heads/main/radio/m3u/fm.m3u
 http://so.owo.vin/央视
