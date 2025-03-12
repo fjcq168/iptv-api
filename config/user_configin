@@ -43,3 +43,4 @@ open_supply = True
 open_update = True
 # 开启显示更新时间; 可选值: True, False | Enable display update time; Optional values: True, False
 open_update_time = True
+m
