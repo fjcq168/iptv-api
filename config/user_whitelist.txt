@@ -24,7 +24,7 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 安徽卫视,http://goo.bkpcp.top/mg/ahws
 重庆卫视,http://goo.bkpcp.top/mg/cqws
 东方卫视,http://goo.bkpcp.top/mg/dfws
-东南卫视,http://goo.bkpcp.top/mg/dnwd
+东南卫视,http://goo.bkpcp.top/mg/dnws
 甘肃卫视,http://goo.bkpcp.top/mg/gsws
 广西卫视,http://goo.bkpcp.top/mg/gxws
 贵州卫视,http://goo.bkpcp.top/mg/gzws
