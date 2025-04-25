@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-25 18:34:00,http://goo.bkpcp.top/mg/cctv1
+2025-04-25 19:07:41,http://goo.bkpcp.top/mg/cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
@@ -183,12 +183,39 @@ CCTV-17,http://dsj.motem.top:8880/gaoma/cctv17.m3u8$订阅源
 CCTV-17,http://nas.suntao.online:35455/itv/1000000006000268004.m3u8?cdn=ystenlive$订阅源
 CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$订阅源
 
+🇭🇰港澳台,#genre#
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+J2,http://cdn.132.us.kg/live/tvbp/stream.m3u8
+J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
+J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻台,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+无线新闻台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
+无线新闻台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
+
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
 广东卫视,http://goo.bkpcp.top/mg/gdws
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 浙江卫视,http://goo.bkpcp.top/mg/zjws
 湖南卫视,http://goo.bkpcp.top/mg/hunws
 北京卫视,http://goo.bkpcp.top/mg/bjws
@@ -283,26 +310,6 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 ☘️青海频道,#genre#
 
 ☘️黑龙江频道,#genre#
-
-🌊港·澳·台,#genre#
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-J2,http://cdn.132.us.kg/live/tvbp/stream.m3u8
-J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
-J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 
 🎬电影频道,#genre#
 
