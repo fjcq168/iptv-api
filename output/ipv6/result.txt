@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-27 06:48:57,http://goo.bkpcp.top/mg/cctv1
+2025-04-27 18:50:21,http://goo.bkpcp.top/mg/cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
@@ -250,7 +250,7 @@ CETV4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/22
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3$订阅源
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$订阅源
 翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8$订阅源
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$订阅源
 翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8$订阅源
@@ -268,7 +268,7 @@ J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$订阅源
 无线新闻台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe$订阅源
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe$订阅源
 TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe$订阅源
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -286,7 +286,7 @@ TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe$订阅源
 凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000$订阅源
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$订阅源
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx$订阅源
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8$订阅源
@@ -347,7 +347,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws$订阅源
 湖南卫视,http://j.x.bkpcp.top/jx/HUNANHD$订阅源
 湖南卫视,http://yc.myds.me:35455/itv/1000000005000265024.m3u8?cdn=ystenlive$订阅源
-湖南卫视,http://nas.suntao.online:35455/itv/5000000004000006692.m3u8?cdn=bestzb$订阅源
+湖南卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003873458.m3u8$订阅源
 北京卫视,http://goo.bkpcp.top/mg/bjws
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8$订阅源
 北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源
@@ -446,7 +446,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 贵州卫视,http://z.b.bkpcp.top/m.php?id=gzws$订阅源
 贵州卫视,http://j.x.bkpcp.top/jx/GUIZHD$订阅源
 贵州卫视,http://yc.myds.me:35455/itv/5000000004000025843.m3u8?cdn=bestzb$订阅源
-贵州卫视,http://nas.suntao.online:35455/itv/5000000004000025843.m3u8?cdn=bestzb$订阅源
+贵州卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003873471.m3u8$订阅源
 贵州卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225974/main.m3u8$订阅源
 海南卫视,http://goo.bkpcp.top/mg/hinws$订阅源
 海南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226574/1.m3u8?$订阅源
@@ -457,7 +457,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 海南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010083$订阅源
 海南卫视,http://j.x.bkpcp.top/jx/HAINHD$订阅源
 海南卫视,http://yc.myds.me:35455/itv/5000000004000006211.m3u8?cdn=bestzb$订阅源
-海南卫视,http://nas.suntao.online:35455/itv/5000000004000006211.m3u8?cdn=bestzb$订阅源
+海南卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000004796877.m3u8$订阅源
 河北卫视,http://goo.bkpcp.top/mg/hbws
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8$订阅源
 河北卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226507/1.m3u8?$订阅源
@@ -487,7 +487,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 吉林卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010075$订阅源
 吉林卫视,http://j.x.bkpcp.top/jx/JILHD$订阅源
 吉林卫视,http://yc.myds.me:35455/itv/5000000011000031117.m3u8?cdn=bestzb$订阅源
-吉林卫视,http://nas.suntao.online:35455/itv/5000000011000031117.m3u8?cdn=bestzb$订阅源
+吉林卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000004972569.m3u8$订阅源
 江苏卫视,http://goo.bkpcp.top/mg/jsws
 江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8$订阅源
 江苏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?$订阅源
@@ -587,7 +587,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 四川卫视,http://z.b.bkpcp.top/m.php?id=scws$订阅源
 四川卫视,http://j.x.bkpcp.top/jx/SICHD$订阅源
 四川卫视,http://yc.myds.me:35455/itv/5000000004000006119.m3u8?cdn=bestzb$订阅源
-四川卫视,http://nas.suntao.online:35455/itv/5000000004000006119.m3u8?cdn=bestzb$订阅源
+四川卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003887274.m3u8$订阅源
 深圳卫视,http://goo.bkpcp.top/mg/szws
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8$订阅源
 深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?$订阅源
@@ -596,7 +596,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 深圳卫视,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002140/index.m3u8$订阅源
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068$订阅源
 深圳卫视,http://yc.myds.me:35455/itv/1000000005000265028.m3u8?cdn=ystenlive$订阅源
-深圳卫视,http://nas.suntao.online:35455/itv/5000000004000007410.m3u8?cdn=bestzb$订阅源
+深圳卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003873474.m3u8$订阅源
 深圳卫视,http://z.b.bkpcp.top/m.php?id=szws$订阅源
 三沙卫视,http://goo.bkpcp.top/mg/ssws
 三沙卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?$订阅源
@@ -616,7 +616,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459$订阅源
 天津卫视,http://j.x.bkpcp.top/jx/TIANJHD$订阅源
 天津卫视,http://yc.myds.me:35455/itv/1000000005000265026.m3u8?cdn=ystenlive$订阅源
-天津卫视,http://nas.suntao.online:35455/itv/5000000004000006827.m3u8?cdn=bestzb$订阅源
+天津卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003873466.m3u8$订阅源
 天津卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8$订阅源
 西藏卫视,http://goo.bkpcp.top/mg/xzws
 西藏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8?$订阅源
@@ -647,7 +647,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$订阅源
 云南卫视,http://z.b.bkpcp.top/m.php?id=ynws$订阅源
 云南卫视,http://yc.myds.me:35455/itv/5000000011000031120.m3u8?cdn=bestzb$订阅源
-云南卫视,http://nas.suntao.online:35455/itv/5000000011000031120.m3u8?cdn=bestzb$订阅源
+云南卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003887453.m3u8$订阅源
 
 ☘️广东频道,#genre#
 广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091$订阅源
@@ -696,7 +696,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 深圳卫视,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002140/index.m3u8$订阅源
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068$订阅源
 深圳卫视,http://yc.myds.me:35455/itv/1000000005000265028.m3u8?cdn=ystenlive$订阅源
-深圳卫视,http://nas.suntao.online:35455/itv/5000000004000007410.m3u8?cdn=bestzb$订阅源
+深圳卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003873474.m3u8$订阅源
 深圳卫视,http://z.b.bkpcp.top/m.php?id=szws$订阅源
 
 ☘️浙江频道,#genre#
@@ -1010,7 +1010,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459$订阅源
 天津卫视,http://j.x.bkpcp.top/jx/TIANJHD$订阅源
 天津卫视,http://yc.myds.me:35455/itv/1000000005000265026.m3u8?cdn=ystenlive$订阅源
-天津卫视,http://nas.suntao.online:35455/itv/5000000004000006827.m3u8?cdn=bestzb$订阅源
+天津卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003873466.m3u8$订阅源
 天津卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8$订阅源
 
 ☘️四川频道,#genre#
@@ -1536,6 +1536,7 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/8888
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8$订阅源
 金鹰卡通,http://tv.scjyhd.com:4022/udp/239.93.0.108:5140$订阅源
 金鹰卡通,http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$订阅源
+金鹰卡通,http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8$订阅源
 黑莓动画,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?$订阅源
 黑莓动画,http://[2409:8087:74d9:21::6]:80/270000001128/9900000096/index.m3u8$订阅源
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002$订阅源
