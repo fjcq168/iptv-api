@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-25 06:47:08,http://goo.bkpcp.top/mg/cctv1
+2025-05-25 18:53:47,http://goo.bkpcp.top/mg/cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
@@ -348,7 +348,7 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8$订阅源
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2$订阅源
+翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3$订阅源
 翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8$订阅源
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$订阅源
 翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8$订阅源
@@ -387,7 +387,7 @@ TVB星河,http://tl.061833.xyz/tl/null-7$订阅源
 凤凰中文,http://cdn.163.dedyn.io/live/fhzw/stream.m3u8$订阅源
 凤凰中文,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$订阅源
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx$订阅源
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8$订阅源
@@ -412,12 +412,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb$订阅源
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport$订阅源
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
-无线新闻,http://6v.nx.tc/smrt.php?playurl=http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
-无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw$订阅源
-无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8$订阅源
-无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$订阅源
 三立新闻,https://tv.iill.top/4gtv/229$订阅源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
 东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe$订阅源
@@ -1404,6 +1398,8 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 广元公共,http://tv.scjyhd.com:4022/udp/239.10.0.61:5140$订阅源
 广元综合,http://tv.scjyhd.com:4022/udp/239.10.0.60:5140$订阅源
 广安公共,http://tv.scjyhd.com:4022/udp/239.10.0.59:5140$订阅源
+邻水综合频道,http://pgpull.lspuge.cn/live/7414eab70192100000f07f6e00000000.flv?wsSecret=efbfa68fbad4d9d5a7e934f1777ca4ec&wsTime=2019657600
+邻水综合频道,http://8.138.7.223/tv/sc.php?id=ga_ls1
 康巴卫视,http://ikuai.sunjianwu.fun:8800/udp/239.49.0.86:8680
 康巴卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000066/index.m3u8$订阅源
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660$订阅源
