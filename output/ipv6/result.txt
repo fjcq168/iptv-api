@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-30 06:47:34,http://goo.bkpcp.top/mg/cctv1
+2025-06-30 11:52:01,http://goo.bkpcp.top/mg/cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
@@ -296,6 +296,7 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8$订阅源
 河北影视,http://event.pull.hebtv.com/jishi/yingshijupindao.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 河北公共,http://event.pull.hebtv.com/jishi/gonggongpindao.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 2023年坑,http://hls.cntv.myhwcdn.cn/asp/hls/main/0303000a/3/default/700bb3e5a57d4720866991d8b283f93c/main.m3u8?maxbr=1400$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
+广东|广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 普陀,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 苏州|南京影视,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 苏州|南京教科,http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
@@ -313,6 +314,7 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8$订阅源
 新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 爱情保卫站,http://aliyuncoccdnct-hb.inter.iqiyi.com/tslive/l1/c54_lb_142_300_t10/ANVbkH9SfSkVTa1FF9z48NbATreOmfOR3ksePZka2W_hv6wqWvwhaG33q98wetWrS-yeQVXE190nxowNfKGac5gBJvdZi29fGpmFqYihGplyjz8AlFpoPt1pfF1kLqLr/1d95a5dc600d0abeaa52b6b556a68289d/c54_lb_142_300_t10.m3u8?key=0d316ff9e8569395ea86873e8ceb2f5aa&dis_t=1669616713&random=1&z=live_alicdn_coc_cn_north_ct&pv=0.2$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 广场舞合集,http://aliyuncoccdnct-hb.inter.iqiyi.com/tslive/l1/c56_lb_235_600_t10/mdxVS0lKSzeNPTh8sJczh-BCTWtsAHlDI5oPfFHdkCkL3Q_7i9ESm_-Pq3nWDNzK0ZT_bU_Puu7tRt4zHxTNn2IeKRABVMdlsSWzL371aHYNsv2lSjAJWMklcP8sPzpBhCOoljs6aStbS3gyrgAf-5HIp4Hv6oDnNleU96zifIqLWAcHbimEmihYunRIgEbnPA8qufLIbYVF2DeZd-I_-m4u3Gn1Yge_8fWYP9DVC4DgdEqfLtFQdMilGtTrS2zjo4xb0qVBELFGchIIm3rx2A/1fd16c25a756f48fa5536163926787358/c56_lb_235_600_t10.m3u8?key=0d316ff9e8569395e69c43c2e4658637c&dis_t=1669521354&random=1&z=live_alicdn_coc_cn_north_ct&pv=0.2$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 上虞经济文化,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 航拍中国第一季,http://hls.cntv.myhwcdn.cn/asp/hls/2000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/2000.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
@@ -345,7 +347,7 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8$订阅源
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3$订阅源
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2$订阅源
 翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8$订阅源
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$订阅源
 翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8$订阅源
@@ -385,7 +387,7 @@ TVB星河,http://tl.061833.xyz/tl/null-7$订阅源
 凤凰中文,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192$订阅源
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$订阅源
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$订阅源
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx$订阅源
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8$订阅源
@@ -927,10 +929,20 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 
 🐼斗鱼电影,#genre#
 林正英电影2,http://zzy789.xyz/douyu1.php?id=7356023连续剧2,http://zzy789.xyz/douyu1.php?id=7623292
+小品2,http://zzy789.xyz/douyu1.php?id=9067836
+小品,http://zzy789.xyz/douyu1.php?id=10153463
+李小龙传奇,http://zzy789.xyz/douyu1.php?id=8721095
+宋小宝,http://zzy789.xyz/douyu1.php?id=9817729
+兄弟赶海,http://zzy789.xyz/douyu1.php?id=9091847
+古装剧,http://zzy789.xyz/douyu1.php?id=9388938
+封神榜,http://zzy789.xyz/douyu1.php?id=4373285
+封神榜,http://luobo.bkpcp.top/yy/1353426319$订阅源
+封神榜,http://www.clmy.cc:35455/yy/1353426319$订阅源
 奔跑吧兄弟,https://judy.livednow.dpdns.org/huya/29465875
 李连杰,https://judy.livednow.dpdns.org/huya/30682679
 李连杰,https://live.iill.top/huya/11342390$订阅源
 斗鱼电影16,http://zzy789.xyz/douyu1.php?id=426517
+斗鱼搞笑HD3,http://zzy789.xyz/douyu1.php?id=9067836
 开心麻花小品,http://zzy789.xyz/douyu1.php?id=10153463
 许君聪小品,http://zzy789.xyz/douyu1.php?id=10419558
 贾玲小品,http://zzy789.xyz/douyu1.php?id=10419541
@@ -2083,6 +2095,7 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667$订阅源
 新白娘子传奇,http://live.iill.top/yy.php?id=1354490667$订阅源
 济公游记,http://live.iill.top/yy.php?id=1355265814$订阅源
+封神榜,http://zzy789.xyz/douyu1.php?id=4373285
 封神榜,http://luobo.bkpcp.top/yy/1353426319$订阅源
 封神榜,http://www.clmy.cc:35455/yy/1353426319$订阅源
 封神榜,http://live.iill.top/yy.php?id=1353426319$订阅源
