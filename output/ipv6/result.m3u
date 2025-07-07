@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-07 18:52:29
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-08 06:50:29
 http://goo.bkpcp.top/mg/cctv1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://goo.bkpcp.top/mg/cctv1
@@ -591,8 +591,6 @@ http://event.pull.hebtv.com/jishi/yingshijupindao.m3u8$山东酒店源-cache:htt
 http://event.pull.hebtv.com/jishi/gonggongpindao.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="2023年坑" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2023年坑.png" group-title="📥其它频道",2023年坑
 http://hls.cntv.myhwcdn.cn/asp/hls/main/0303000a/3/default/700bb3e5a57d4720866991d8b283f93c/main.m3u8?maxbr=1400$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
-#EXTINF:-1 tvg-name="广东|广东文化" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东|广东文化.png" group-title="📥其它频道",广东|广东文化
-https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="苏州|南京影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州|南京影视.png" group-title="📥其它频道",苏州|南京影视
 http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="苏州|南京教科" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州|南京教科.png" group-title="📥其它频道",苏州|南京教科
@@ -611,8 +609,6 @@ http://aliyuncoccdnct-hb.inter.iqiyi.com/tslive/l1/c52_lb_84_600_t10/skUSlT28M3D
 http://aliyuncoccdnct-hb.inter.iqiyi.com/tslive/l1/c54_lb_142_300_t10/ANVbkH9SfSkVTa1FF9z48NbATreOmfOR3ksePZka2W_hv6wqWvwhaG33q98wetWrS-yeQVXE190nxowNfKGac5gBJvdZi29fGpmFqYihGplyjz8AlFpoPt1pfF1kLqLr/1d95a5dc600d0abeaa52b6b556a68289d/c54_lb_142_300_t10.m3u8?key=0d316ff9e8569395ea86873e8ceb2f5aa&dis_t=1669616713&random=1&z=live_alicdn_coc_cn_north_ct&pv=0.2$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="广场舞合集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广场舞合集.png" group-title="📥其它频道",广场舞合集
 http://aliyuncoccdnct-hb.inter.iqiyi.com/tslive/l1/c56_lb_235_600_t10/mdxVS0lKSzeNPTh8sJczh-BCTWtsAHlDI5oPfFHdkCkL3Q_7i9ESm_-Pq3nWDNzK0ZT_bU_Puu7tRt4zHxTNn2IeKRABVMdlsSWzL371aHYNsv2lSjAJWMklcP8sPzpBhCOoljs6aStbS3gyrgAf-5HIp4Hv6oDnNleU96zifIqLWAcHbimEmihYunRIgEbnPA8qufLIbYVF2DeZd-I_-m4u3Gn1Yge_8fWYP9DVC4DgdEqfLtFQdMilGtTrS2zjo4xb0qVBELFGchIIm3rx2A/1fd16c25a756f48fa5536163926787358/c56_lb_235_600_t10.m3u8?key=0d316ff9e8569395e69c43c2e4658637c&dis_t=1669521354&random=1&z=live_alicdn_coc_cn_north_ct&pv=0.2$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
-#EXTINF:-1 tvg-name="广东文化" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东文化.png" group-title="📥其它频道",广东文化
-https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="航拍中国第一季" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/航拍中国第一季.png" group-title="📥其它频道",航拍中国第一季
 http://hls.cntv.myhwcdn.cn/asp/hls/2000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/2000.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="三国的世界" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三国的世界.png" group-title="📥其它频道",三国的世界
@@ -670,7 +666,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰港澳台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰港澳台",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3$订阅源
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2$订阅源
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰港澳台",翡翠台
 http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8$订阅源
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰港澳台",翡翠台
@@ -764,7 +760,7 @@ http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
-http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$订阅源
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
 https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
@@ -3303,6 +3299,8 @@ http://live.ahsz.tv/video/s10001-ggpd/index.m3u8$订阅源
 http://ls.qingting.fm/live/267.m3u8$订阅源
 #EXTINF:-1 tvg-name="六安公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/六安公共.png" group-title="☘️安徽频道",六安公共
 http://ls.qingting.fm/live/1794199.m3u8$订阅源
+#EXTINF:-1 tvg-name="亳州农村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/亳州农村.png" group-title="☘️安徽频道",亳州农村
+http://zbbf2.ahbztv.com/live/418.m3u8?zanhd$订阅源
 #EXTINF:-1 tvg-name="宁夏经济" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏经济.png" group-title="☘️宁夏频道",宁夏经济
 https://ls.qingting.fm/live/1841/64k.m3u8$订阅源
 #EXTINF:-1 tvg-name="银川生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/银川生活.png" group-title="☘️宁夏频道",银川生活
