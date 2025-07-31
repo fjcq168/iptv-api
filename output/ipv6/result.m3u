@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-31 18:57:53
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-08-01 06:51:59
 http://goo.bkpcp.top/mg/cctv1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://goo.bkpcp.top/mg/cctv1
@@ -569,28 +569,16 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8$订阅源
 http://n1.gzbody.com:85/rtp/239.253.43.114:5146$订阅源
 #EXTINF:-1 tvg-name="短片等着我" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/短片等着我.png" group-title="📥其它频道",短片等着我
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4c73075e02fe4f27a79fbb5f472a2acd/1200.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
-#EXTINF:-1 tvg-name="短片今日说法" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/短片今日说法.png" group-title="📥其它频道",短片今日说法
-http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/013fb1c8a919478b96ccbbb001267443/1200.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
-#EXTINF:-1 tvg-name="短片乐享会" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/短片乐享会.png" group-title="📥其它频道",短片乐享会
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/eeaf8e34d7124f2baa7aab75904bd0cd/4000.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
-#EXTINF:-1 tvg-name="短片天网" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/短片天网.png" group-title="📥其它频道",短片天网
-http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/fd0919943a4845608d61f12a4342b107/1200.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="云南ⅰ麻栗坡" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南ⅰ麻栗坡.png" group-title="📥其它频道",云南ⅰ麻栗坡
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="中国音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中国音乐.png" group-title="📥其它频道",中国音乐
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0b96c69f337f4c79b2b73fe56ac6ea6b/1200.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
-#EXTINF:-1 tvg-name="雾漫金山" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雾漫金山.png" group-title="📥其它频道",雾漫金山
-http://hls.cntv.myhwcdn.cn/asp/hls/2000/0303000a/3/default/181ab927805b4de191757da5f0399b97/2000.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
-#EXTINF:-1 tvg-name="乐享2021" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/乐享2021.png" group-title="📥其它频道",乐享2021
-http://hls.cntv.myhwcdn.cn/asp/hls/2000/0303000a/3/default/666dce91653942889f26f3550b74fd67/2000.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
-#EXTINF:-1 tvg-name="一生所爱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/一生所爱.png" group-title="📥其它频道",一生所爱
-http://hls.cntv.myhwcdn.cn/asp/hls/2000/0303000a/3/default/0d078cbc081c421a99c8aaeda0799f8b/2000.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="河北影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北影视.png" group-title="📥其它频道",河北影视
 http://event.pull.hebtv.com/jishi/yingshijupindao.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="河北公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北公共.png" group-title="📥其它频道",河北公共
 http://event.pull.hebtv.com/jishi/gonggongpindao.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
-#EXTINF:-1 tvg-name="2023年坑" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2023年坑.png" group-title="📥其它频道",2023年坑
-http://hls.cntv.myhwcdn.cn/asp/hls/main/0303000a/3/default/700bb3e5a57d4720866991d8b283f93c/main.m3u8?maxbr=1400$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
+#EXTINF:-1 tvg-name="广东|广东文化" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东|广东文化.png" group-title="📥其它频道",广东|广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="都市猛禽" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市猛禽.png" group-title="📥其它频道",都市猛禽
 https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/7b93775cf31f45f18fd50913719b516b/main.m3u8?maxbr=1400$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="重磅综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重磅综艺.png" group-title="📥其它频道",重磅综艺
@@ -599,22 +587,18 @@ http://aliyuncoccdnct-hb.inter.iqiyi.com/tslive/l1/c52_lb_84_600_t10/skUSlT28M3D
 http://aliyuncoccdnct-hb.inter.iqiyi.com/tslive/l1/c54_lb_142_300_t10/ANVbkH9SfSkVTa1FF9z48NbATreOmfOR3ksePZka2W_hv6wqWvwhaG33q98wetWrS-yeQVXE190nxowNfKGac5gBJvdZi29fGpmFqYihGplyjz8AlFpoPt1pfF1kLqLr/1d95a5dc600d0abeaa52b6b556a68289d/c54_lb_142_300_t10.m3u8?key=0d316ff9e8569395ea86873e8ceb2f5aa&dis_t=1669616713&random=1&z=live_alicdn_coc_cn_north_ct&pv=0.2$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="广场舞合集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广场舞合集.png" group-title="📥其它频道",广场舞合集
 http://aliyuncoccdnct-hb.inter.iqiyi.com/tslive/l1/c56_lb_235_600_t10/mdxVS0lKSzeNPTh8sJczh-BCTWtsAHlDI5oPfFHdkCkL3Q_7i9ESm_-Pq3nWDNzK0ZT_bU_Puu7tRt4zHxTNn2IeKRABVMdlsSWzL371aHYNsv2lSjAJWMklcP8sPzpBhCOoljs6aStbS3gyrgAf-5HIp4Hv6oDnNleU96zifIqLWAcHbimEmihYunRIgEbnPA8qufLIbYVF2DeZd-I_-m4u3Gn1Yge_8fWYP9DVC4DgdEqfLtFQdMilGtTrS2zjo4xb0qVBELFGchIIm3rx2A/1fd16c25a756f48fa5536163926787358/c56_lb_235_600_t10.m3u8?key=0d316ff9e8569395e69c43c2e4658637c&dis_t=1669521354&random=1&z=live_alicdn_coc_cn_north_ct&pv=0.2$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
-#EXTINF:-1 tvg-name="航拍中国第一季" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/航拍中国第一季.png" group-title="📥其它频道",航拍中国第一季
-http://hls.cntv.myhwcdn.cn/asp/hls/2000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/2000.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
+#EXTINF:-1 tvg-name="广东文化" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东文化.png" group-title="📥其它频道",广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="三国的世界" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三国的世界.png" group-title="📥其它频道",三国的世界
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5e423fb5c8764adaae2bd9ee7a488817/1200.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="河北|河北影视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北|河北影视剧.png" group-title="📥其它频道",河北|河北影视剧
 https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="河北|邯郸公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北|邯郸公共.png" group-title="📥其它频道",河北|邯郸公共
 http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
-#EXTINF:-1 tvg-name="国家荣光" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国家荣光.png" group-title="📥其它频道",国家荣光
-http://hls.cntv.myhwcdn.cn/asp/hls/2000/0303000a/3/default/5b2f11cd94d840ddba9bc22731d5778e/2000.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="河北|邯郸科技教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北|邯郸科技教育.png" group-title="📥其它频道",河北|邯郸科技教育
 https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="河北|邯郸科技教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北|邯郸科技教育.png" group-title="📥其它频道",河北|邯郸科技教育
 http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
-#EXTINF:-1 tvg-name="百家讲堂" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/百家讲堂.png" group-title="📥其它频道",百家讲堂
-http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/910b7e18918b47ffa4177746656f6ffb/1200.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="等着我" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/等着我.png" group-title="📥其它频道",等着我
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0b441e3861db41cbadb51d1d75b6ebaa/1200.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="云南|昆明新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南|昆明新闻综合.png" group-title="📥其它频道",云南|昆明新闻综合
@@ -629,8 +613,6 @@ http://wshls.live.migucloud.com/live/ZBXWIMTD_C0_2/playlist.m3u8?token=006f3811c
 https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="云南|昆明影视综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南|昆明影视综艺.png" group-title="📥其它频道",云南|昆明影视综艺
 http://wshls.live.migucloud.com/live/KYLNJWFD_C0_2/playlist.m3u8?token=006f3811c18fb70b91442573728aa10e$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
-#EXTINF:-1 tvg-name="故事里的中国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/故事里的中国.png" group-title="📥其它频道",故事里的中国
-http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/0879cd1fd0c4479d970291ce2946b17c/1200.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="云南|昆明公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南|昆明公共.png" group-title="📥其它频道",云南|昆明公共
 http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8?token=006f3811c18fb70b91442573728aa10e$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
 #EXTINF:-1 tvg-name="金牌调解" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金牌调解.png" group-title="📥其它频道",金牌调解
@@ -656,7 +638,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰港澳台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰港澳台",翡翠台
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3$订阅源
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2$订阅源
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰港澳台",翡翠台
 http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8$订阅源
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰港澳台",翡翠台
@@ -750,7 +732,7 @@ http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
-http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$订阅源
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
 https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🇭🇰港澳台",凤凰资讯
