@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-02 18:52:42,http://goo.bkpcp.top/mg/cctv1
+2025-10-03 06:48:17,http://goo.bkpcp.top/mg/cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
@@ -331,7 +331,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3$订阅源
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$订阅源
 翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8$订阅源
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$订阅源
 翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8$订阅源
@@ -381,7 +381,7 @@ TVB星河,http://v2hcdn.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w1006.m3
 凤凰中文,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192$订阅源
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$订阅源
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx$订阅源
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8$订阅源
@@ -1934,6 +1934,7 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2$订阅源
 天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
+天映经典,https://100.061833.xyz/stream/mytv/null-1/stream.m3u8?uid=3291919010&u=rty789&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc$订阅源
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe$订阅源
 星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8$订阅源
 星空卫视,http://tv.scjyhd.com:4022/udp/239.93.0.156:2193$订阅源
