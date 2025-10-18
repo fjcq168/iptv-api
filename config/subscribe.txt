@@ -1,6 +1,6 @@
-# 这是订阅源列表，每行一个订阅地址
-# This is a list of subscription sources, with one subscription address per line
-
+https://daili.korice.eu.org/https://githubusercontent.com/fjcq168/IPTV-/refs/heads/main/ipv4.txt
+https://2099.tv12.xyz/list.txt
+https://daili.korice.eu.org/https://github.com/fjcq168/zubo/blob/main/IPTV.txt
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
