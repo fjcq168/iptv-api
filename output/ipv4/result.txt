@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-15 07:26:01,http://58.19.32.207:4022/rtp/239.254.96.96:8550
+2026-06-16 00:05:02,http://58.19.32.207:4022/rtp/239.254.96.96:8550
 
 📺央视频道,#genre#
 CCTV-1,http://58.19.32.207:4022/rtp/239.254.96.96:8550
@@ -17,16 +17,16 @@ CCTV-5+,http://123.157.31.182:7912/rtp/233.50.201.220:5140
 CCTV-6,http://58.19.32.207:4022/rtp/239.69.1.124:10382
 CCTV-6,http://123.157.31.182:7912/rtp/233.50.200.109:5140
 CCTV-7,http://58.19.32.207:4022/rtp/239.69.1.103:10256
-CCTV-7,http://125.43.244.40:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://58.19.32.207:4022/rtp/239.69.1.125:10388
-CCTV-10,http://173.208.212.130:8181/1080p/cctv10.m3u8
 CCTV-10,http://192.151.150.154/live/cctv10hd.m3u8
+CCTV-10,http://173.208.212.130:8181/1080p/cctv10.m3u8
 CCTV-10,http://58.19.32.207:4022/rtp/239.69.1.105:10268
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,http://123.157.31.182:7912/rtp/233.50.200.22:5140
 CCTV-11,http://198.204.228.26/live/cctv11hd.m3u8
 CCTV-11,http://192.151.150.154/live/cctv11hd.m3u8
 CCTV-11,http://58.19.32.207:4022/rtp/239.69.1.154:10560
+CCTV-11,http://182.114.48.172:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://198.204.228.26/live/cctv12hd.m3u8
 CCTV-12,http://58.19.32.207:4022/rtp/239.69.1.106:10274
 CCTV-13,http://58.19.32.207:4022/rtp/239.254.96.161:9040
@@ -57,6 +57,7 @@ CETV-1,http://58.19.32.207:4022/rtp/239.69.1.110:10298
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://58.19.32.207:4022/rtp/239.254.96.139:8908
 湖南卫视,http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012
+湖南卫视,http://223.75.149.129:9906/tsfile/live/0128_1.m3u8?key=txiptv
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://58.19.32.207:4022/rtp/239.254.96.141:8920
 湖北卫视,https://live.264788.xyz/channel/hubeiweishi?streamid=e5e8827bbbb6fed082b85a0b9970586b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -65,13 +66,13 @@ CETV-1,http://58.19.32.207:4022/rtp/239.69.1.110:10298
 黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=9e03d442683b7ecf5b887926d8068438&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 黑龙江卫视,http://198.204.228.26/live/hljwshd.m3u8
 黑龙江卫视,http://58.19.32.207:4022/rtp/239.254.96.138:8902
-安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
 安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
+安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
 安徽卫视,http://58.19.32.207:4022/rtp/239.69.1.70:10060
 重庆卫视,http://58.19.32.207:4022/rtp/239.69.1.149:10530
-东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=7245d9e90a18060f183b84e383e941a4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
 东方卫视,http://198.204.228.26/live/dfwshd.m3u8
+东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
+东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=7245d9e90a18060f183b84e383e941a4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方卫视,http://58.19.32.207:4022/rtp/239.254.96.142:8926
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东南卫视,http://58.19.32.207:4022/rtp/239.69.1.108:10286
@@ -79,11 +80,15 @@ CETV-1,http://58.19.32.207:4022/rtp/239.69.1.110:10298
 广西卫视,http://58.19.32.207:4022/rtp/239.69.1.191:10788
 贵州卫视,http://58.19.32.207:4022/rtp/239.69.1.150:10536
 贵州卫视,http://123.157.31.182:7912/rtp/233.50.200.139:5140
+贵州卫视,http://125.43.249.150:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://58.19.32.207:4022/rtp/239.69.1.151:10542
+河北卫视,http://173.208.212.130:8181/720p/hews.m3u8
+河北卫视,http://125.43.249.150:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://198.204.228.26/live/hawshd.m3u8
 河南卫视,http://192.151.150.154/live/hawshd.m3u8
 河南卫视,http://58.19.32.207:4022/rtp/239.69.1.168:10644
 河南卫视,http://123.157.31.182:7912/rtp/233.50.200.142:5140
+河南卫视,http://182.114.48.172:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
 吉林卫视,http://58.19.32.207:4022/rtp/239.69.1.212:10914
 吉林卫视,http://123.157.31.182:7912/rtp/233.50.200.164:5140
@@ -94,33 +99,36 @@ CETV-1,http://58.19.32.207:4022/rtp/239.69.1.110:10298
 江西卫视,http://198.204.228.26/live/jxwshd.m3u8
 江西卫视,http://58.19.32.207:4022/rtp/239.69.1.126:10394
 江西卫视,http://123.157.31.182:7912/rtp/233.50.201.145:5140
-江西卫视,http://107.150.60.122/live/jxwshd.m3u8
 辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8
 辽宁卫视,http://58.19.32.207:4022/rtp/239.69.1.71:10066
+辽宁卫视,http://125.43.249.150:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://123.157.31.182:7912/rtp/233.50.202.45:5140
 山东卫视,http://58.19.32.207:4022/rtp/239.69.1.69:10054
+山东卫视,http://fuxin.yunjifei.top:999/tsfile/live/0131_1.m3u8?key=txiptv
 山西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sxwshd
 山西卫视,http://198.204.228.26/live/sxwshd.m3u8
 陕西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=snwshd
-陕西卫视,http://198.204.228.26/live/snwshd.m3u8
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
+陕西卫视,http://198.204.228.26/live/snwshd.m3u8
 四川卫视,http://58.19.32.207:4022/rtp/239.69.1.169:10650
-四川卫视,http://107.150.60.122/live/scwshd.m3u8
 深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=9f19de691697b902376432567c77cece&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 深圳卫视,http://58.19.32.207:4022/rtp/239.254.96.137:8896
 天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=53f0f1a72f5c328bef6502a4b663fe9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 天津卫视,http://204.12.221.218:8181/3m1080p/tjws.m3u8
+天津卫视,http://173.208.212.130:8181/720p/tjws.m3u8
 天津卫视,http://58.19.32.207:4022/rtp/239.69.1.68:10048
 天津卫视,http://123.157.31.182:7912/rtp/233.50.201.104:5140
+天津卫视,http://fuxin.yunjifei.top:999/tsfile/live/0135_1.m3u8?key=txiptv
 西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=b1074802469551526bb63c33e26c400c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
 西藏卫视,http://198.204.228.26/live/xzws.m3u8
+西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
 新疆卫视,http://123.157.31.182:7912/rtp/233.50.202.46:5140
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
+云南卫视,http://204.12.221.218:8181/3m1080p/ynws.m3u8
 云南卫视,http://198.204.228.26/live/ynwshd.m3u8
 云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
-云南卫视,http://204.12.221.218:8181/3m1080p/ynws.m3u8
+云南卫视,http://125.43.249.150:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
 
@@ -141,10 +149,8 @@ CETV-1,http://58.19.32.207:4022/rtp/239.69.1.110:10298
 
 ☘️上海频道,#genre#
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 ☘️重庆频道,#genre#
-璧山综合,http://222.179.42.129:8181/hls1.m3u8
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
@@ -177,7 +183,6 @@ CETV-1,http://58.19.32.207:4022/rtp/239.69.1.110:10298
 ☘️湖北频道,#genre#
 湖北公共新闻,http://58.19.32.207:4022/rtp/239.69.1.40:9880
 武汉新闻综合,http://58.19.32.207:4022/rtp/239.69.1.145:10506
-武汉新闻,http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1
 
 ☘️广西频道,#genre#
 南宁新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
@@ -229,8 +234,10 @@ CETV-1,http://58.19.32.207:4022/rtp/239.69.1.110:10298
 嘉峪关综合,rtsp://221.7.61.147/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
 嘉峪关综合,rtsp://116.176.26.19/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
 嘉峪关综合,rtsp://60.13.39.18/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
-天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
+平凉新闻综合,rtmp://play.kankanlive.com/live/1694661314645984
+平凉新闻综合,http://play.kankanlive.com/live/1720583434627241.m3u8
 永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
+甘南综合,https://play.kankanlive.com/live/1711955176432990.m3u8
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,rtmp://play.kankanlive.com/live/1680577080200944
